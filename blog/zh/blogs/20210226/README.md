@@ -161,3 +161,6 @@ virtqueue 是一个简单的结构，声明了一个额外的回调函数（该�
 3. [Virtio: An I/O virtualization framework for Linux](https://developer.ibm.com/articles/l-virtio/)
 4. [virtio之vring](https://www.cnblogs.com/yi-mu-xi/p/12544695.html)
 5. [容器、虚拟机与Docker概念全解析](https://www.linuxprobe.com/docker-and-vm.html)
+ 
+ <Comment lang="zh-CN"/> 
+ 

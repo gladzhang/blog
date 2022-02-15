@@ -11,3 +11,12 @@ footer: MIT Licensed | Powered by VuePress
 ---
 
                                                                                         
+ 
+ -  [Do not use `#[serde(deny_unknown_fields)]` on k8s CRD struct](/zh/blogs/20211130/) 用 kube-rs 的时候碰到的一个有趣的问题
+ 
+ 
+ -  [工业物联网通讯笔记](/zh/blogs/20211210/) 工业物联网通讯相关杂记：EtherCAT、S7
+ 
+ 
+ <Comment lang="zh-CN"/> 
+ 

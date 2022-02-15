@@ -386,3 +386,6 @@ Actually I’m not aware of any language that works this way, it’s just an ide
 原文：[Models of Generics and Metaprogramming: Go, Rust, Swift, D and More - Tristan Hume (thume.ca)](https://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics/)
 
 译文：[泛型和元编程的模型：Java, Go, Rust, Swift, D等_高可用架构的博客-CSDN博客](https://blog.csdn.net/weixin_45583158/article/details/109664612)
+ 
+ <Comment lang="zh-CN"/> 
+ 

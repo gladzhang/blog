@@ -435,3 +435,7 @@ struct ibv_send_wr {
 ## ATC21: MigrOS: Transparent Live-Migration Support for Containerised RDMA Applications
 
 这篇文章提出容器化和 RDMA 本身是冲突的，容器化为应用提供了独立于宿主机的运行时，RDMA 则会让应用和宿主机之间的联系更加紧密。这种冲突导致容器在重启或迁移时，无法恢复被中断的 RDMA 应用。这篇文章修改了 RoCEv2 协议，增加了两个状态，增强了 IB verbs API，从而支持 RDMA 应用的中断、恢复。然后使用 [CRIU](https://github.com/checkpoint-restore/criu) 调用他们修改过的 IB verbs API，达到恢复的目的（CRIU 是一个保存进程状态、重启进程的工具）。这篇文章非常详细地介绍了 RoCEv2，拿来学习也是很有用的。
+
+ 
+ <Comment lang="zh-CN"/> 
+ 

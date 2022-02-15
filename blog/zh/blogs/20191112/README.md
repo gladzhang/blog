@@ -71,3 +71,6 @@ sudo apt-get install boot-repair
 之后在应用菜单中选择boot-repair（引导修复）使用该工具修复。如果修复后出现了多余的启动项，在`/boot/grub/grub.cfg `中删掉相关的条目即可。
 
 [返回](/zh/blogs/)
+ 
+ <Comment lang="zh-CN"/> 
+ 

@@ -91,3 +91,6 @@ Info 页面的命令
 - Unix / Linux: Display Color Man Pages
 - HowTo: Linux / UNIX Create a Manpage
 - Ubuntu Linux install man pages
+ 
+ <Comment lang="zh-CN"/> 
+ 

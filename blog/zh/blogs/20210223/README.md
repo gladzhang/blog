@@ -826,3 +826,7 @@ __weak void application_entry(void *arg)
 
 如果是用 STM32CubeIDE 自动生成带 RTOS 的代码，会有相关提示，应该还是说程序的中断和时钟中断优先级的问题
 
+
+ 
+ <Comment lang="zh-CN"/> 
+ 

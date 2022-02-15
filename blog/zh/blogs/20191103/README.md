@@ -172,3 +172,6 @@ $f(S_{app})\geq (1-\frac{1}{e})f(S_{opt})$
 浅谈子集系统、拟阵与贪心：https://blog.csdn.net/MaverickFW/article/details/78207719
 
 [返回](/zh/blogs/)
+ 
+ <Comment lang="zh-CN"/> 
+ 

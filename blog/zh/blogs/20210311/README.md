@@ -185,3 +185,7 @@ OVS eBPF datapath 包含多个 eBPF 程序和用户态的 ovs-vswitchd 作为控
 
 通过动态修改 RSS 表在 CPU 核心之间分配流量。RSS++摆脱了延迟分布的长尾，提升了CPU利用率，还支持削减参与到包转发过程中的 CPU 核心数，避免核心数过量。比如左边图片，第三段，自动空余出了  CPU。
 
+
+ 
+ <Comment lang="zh-CN"/> 
+ 

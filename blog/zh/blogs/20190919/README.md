@@ -46,3 +46,6 @@ alias touchs='touch_script(){ touch $1;chmod +x $1;};touch_script'
 :::
 
 [返回](/zh/blogs/)
+ 
+ <Comment lang="zh-CN"/> 
+ 

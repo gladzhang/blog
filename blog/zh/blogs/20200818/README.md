@@ -32,3 +32,6 @@ module.exports = {
 其实该博客在搭建的时候还是踩了一些坑的，但是因为还在搭建博客……之前就没有写总结，现在又快忘光了。从仅有的[README](https://github.com/Forsworns/blog)和代码中，我之前是给每个页面单独定义过[Layout组件](https://github.com/Forsworns/blog/tree/master/blog/.vuepress)的（见`blog/.vuepress/components/*Layout.vue`）。之后有空去考虑只在BlogLayout.vue中显示看板娘吧，应该可以参考另一篇[博文](https://blog.csdn.net/qq_36357242/article/details/100063063)。
 
 [返回](/zh/blogs/)
+ 
+ <Comment lang="zh-CN"/> 
+ 
