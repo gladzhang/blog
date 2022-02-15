@@ -10,7 +10,10 @@ actionLink: /zh/about-me/
 footer: MIT Licensed | Powered by VuePress
 ---
 
-                                                                                        
+                                                                                          
+ 
+ <Comment lang="zh-CN"/> 
+ 
  
  -  [Do not use `#[serde(deny_unknown_fields)]` on k8s CRD struct](/zh/blogs/20211130/) 用 kube-rs 的时候碰到的一个有趣的问题
  
